@@ -2,19 +2,11 @@
 main:
   - title: "Posts"
     url: /year-archive/
-    description: "博客列表"
   - title: "Categories"
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "Pages"
-    url: /page-archive/
-    description: "其他页面"
   - title: "About"
     url: /about/
-    description: "关于我"
-  
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/

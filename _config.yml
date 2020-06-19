@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-theme                  : "minimal-mistakes-jekyll"
+#theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -96,8 +96,8 @@ baidu_analysis: 577a5d0164e6c2fe229a7bd6f19da365
 author:
   name             : "Jinlong Sun"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "** 勤练带来力量！**"
-  location         : "beijing"
+  bio              : "勤练带来力量！"
+  location         : "Beijing"
   email            : "jlsuncugb@163.com"
   links:
     # - label: "Email"
