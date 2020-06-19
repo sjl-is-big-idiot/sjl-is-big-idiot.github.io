@@ -1,4 +1,4 @@
-source "https://mirrors.aliyun.com/rubygems"
+source "https:/rubygems.org"
 
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
