@@ -38,7 +38,7 @@ tag: Navicat
 # 11.将注册机Activation Code处生成的激活码内容复制到Navicat手动激活窗口的激活码框中（或点击ActivationCode处下面的Copy按钮），然后点击激活按钮
 ![avatar](/assets/images/2020060203160965.png)
 # 12.提示Navicat现已激活
-![avatar](../assets/images/2020060203164627.png)
+![avatar](/assets/images/2020060203164627.png)
 
 Navicat Premium 12.0.27激活成功
 
