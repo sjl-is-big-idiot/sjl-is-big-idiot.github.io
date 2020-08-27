@@ -87,10 +87,11 @@ mysql-community-test-5.7.29-1.el7.x86_64.rpm
 [root@localhost /]# chmod -R 755 /opt/mysql
 ```
 严格按照顺序安装：
- 1.mysql-community-common-5.7.29-1.el7.x86_64.rpm
- 2.mysql-community-libs-5.7.29-1.el7.x86_64.rpm 
- 3.mysql-community-client-5.7.29-1.el7.x86_64.rpm
- 4.mysql-community-server-5.7.29-1.el7.x86_64.rpm
+<br>
+ 1. mysql-community-common-5.7.29-1.el7.x86_64.rpm
+ 2. mysql-community-libs-5.7.29-1.el7.x86_64.rpm 
+ 3. mysql-community-client-5.7.29-1.el7.x86_64.rpm
+ 4. mysql-community-server-5.7.29-1.el7.x86_64.rpm
 
 如果安装过程中出现这个错误就在后面添加 --force --nodeps，这可能是由于yum安装了旧版本的GPG keys造成的
 # 3.配置数据库
